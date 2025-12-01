@@ -1,8 +1,5 @@
 ### 🐍 My GitHub Contributions Snake 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/notafishaxolotl/notafishaxolotl/output/github-snake.svg" alt="GitHub Contributions Snake" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notafishaxolotl/notafishaxolotl/output/github-snake-dark.svg" />
