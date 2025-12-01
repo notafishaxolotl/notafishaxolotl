@@ -1,5 +1,11 @@
+### 🐍 My GitHub Contributions Snake 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notafishaxolotl/notafishaxolotl/output/github-snake.svg" alt="GitHub Contributions Snake" />
+</p>
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notafishaxolotl/notafishaxolotl/output/dist/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notafishaxolotl/notafishaxolotl/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/notafishaxolotl/notafishaxolotl/output/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notafishaxolotl/notafishaxolotl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notafishaxolotl/notafishaxolotl/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/notafishaxolotl/notafishaxolotl/output/github-snake.svg" />
 </picture>
